@@ -23,12 +23,12 @@
 		<h4>Created on 8/11/2022<a href="Updates.html">Updates</a></h4>
         <br>
 		<h1>Courses</h1>
-		<img src="coder.png" alt="Something Went Wrong" title="MobileApps" width="270" height="200">
+		<img src="coder.png" alt="Something Went Wrong" title="Courses" width="270" height="200">
 		<br>
         <br>
 		<hr>
 		<h3>#1) HTML Basics</h3>
-		<a href="HTMLBasics.html">Check it</a>
+		<a href="HTMLBasics.html">Available</a>
 		<br>
 		<br>
 		<hr>
@@ -37,7 +37,7 @@
 		<br>
 		<hr>
 		<h3>#2) Links & Images</h3>
-		<a href="">Check it - unavailable</a>
+		<a href="Links&Images.html">Available</a>
 		<br>
 		<br>
 		<hr>
@@ -46,7 +46,7 @@
 		<br>
 		<hr>
 		<h3>#3) HTML Table</h3>
-		<a href="">Check it - unavailable</a>
+		<a href="">UnAvailable</a>
 		<br>
 		<br>
 		<hr>
@@ -55,7 +55,7 @@
 		<br>
 		<hr>
 		<h3>Creator of This Project</h3>
-		<a href="Creator.html">Creator of Project</a>
+		<a href="Creator.html">Creator</a>
 		<br>
 		<br>
 		<hr>
